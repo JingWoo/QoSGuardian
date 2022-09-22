@@ -1,0 +1,6 @@
+---
+metrics_collector:
+  node:
+    collect_interval: 10s
+  pod:
+    collect_interval: 10s
